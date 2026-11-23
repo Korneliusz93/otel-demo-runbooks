@@ -73,6 +73,7 @@ Runbooks
 Runbooks are maintained as separate documents. Add links here as they become available:
 
 <!-- Example: - [Runbook title](URL) — short description. -->
+[Fix product-catalog, checkout, payment services](https://github.com/Korneliusz93/otel-demo-runbooks/blob/main/incidents/2026-11-23-compose-services-unhealthy.md) - after starting the Otel project fix the inaccessibility of catalog products, cart positions nod being added.
 
 ## Official References
 
